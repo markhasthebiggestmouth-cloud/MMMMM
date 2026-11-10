@@ -1,6 +1,6 @@
 name: Process XML File
 
-on:
+'on':
   push:
     paths:
       - 'data.xml'
