@@ -1,1 +1,4 @@
-
+<project>
+    <status>active</status>
+    <message>Hello from GitHub Actions!</message>
+</project>
